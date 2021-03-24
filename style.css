@@ -6,6 +6,10 @@ html{
     overflow: scroll;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
 .container {
     display: grid;
     grid-template-columns: 1fr;
